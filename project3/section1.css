@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: "Poppins";
+  background-image: url('img/bc-photo.jpg');
+  background-repeat: no-repeat;
+}
+.main-text {
+  margin-top: 90px;
+  float: left;
+}
+
+.mainTitle {
+  display: inline-block;
+  font-size: 40px;
+  font-weight: bold;
+  color: #1d3d78;
+}
+.lorem {
+  width: 350px;
+  margin: 25px 0;
+  font-size: 16px;
+  color: rgb(54, 89, 184);
+  letter-spacing: 0.8px;
+}
+.downConatctButton {
+  background-color: #ff5997;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  width: 140px;
+  border-radius: 8px;
+}
+.desktop-mock{
+  float: right;
+  margin: 70px 0px 0 0;
+}
+.desktop-mock img{
+  width: 340px;
+}
